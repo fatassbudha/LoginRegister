@@ -1,0 +1,16 @@
+<style>
+body{
+    height: inherit ;
+    position: fixed;
+    }
+body{
+    background-image: url("electro.jpg");
+    background-size:cover;
+    }
+p{
+    color: beige;
+    }
+a{
+    color: beige;
+    }
+</style>
